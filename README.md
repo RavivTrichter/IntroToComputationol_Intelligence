@@ -1,5 +1,5 @@
 # Intro_To_Computationol_Intelligence
-Homework from the course Introduction to Computational Intelligence
+Homework from the course Introduction to Computational Intelligence, Tel-Hai College.
 
 
 Exercise 1 : Solving a Traveling Salesmam Problem using Simulated Annealing (SA).
