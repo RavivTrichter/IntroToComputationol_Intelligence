@@ -1,4 +1,4 @@
-# Intro_To_Computationol_Intelligence
+# IntroToComputationol_Intelligence
 Homework from the course Introduction to Computational Intelligence. 3rd year, winter semester, Tel-Hai College.
 
 
